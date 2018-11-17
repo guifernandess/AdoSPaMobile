@@ -1,8 +1,8 @@
 [
-    { "id": 1, "nome": "Tarefa 1", "status" : 1,"dtprazo": "2018-11-10" },
-    { "id": 2, "nome": "Tarefa 2", "status" : 1,"dtprazo": "2018-11-10" },
-    { "id": 3, "nome": "Tarefa 3", "status" : 1,"dtprazo": "2018-11-10" },
-    { "id": 4, "nome": "Tarefa 4", "status" : 1,"dtprazo": "2018-11-10" },
-    { "id": 5, "nome": "Tarefa 5", "status" : 0,"dtprazo": "2018-11-10" },
-    { "id": 6, "nome": "Tarefa 6", "status" : 0,"dtprazo": "2018-11-10" }
+    { "id": 1, "nome": "Tarefa 1", "status" : true,"dtprazo": "10-11-2018" },
+    { "id": 2, "nome": "Tarefa 2", "status" : true,"dtprazo": "11-11-2018" },
+    { "id": 3, "nome": "Tarefa 3", "status" : true,"dtprazo": "15-08-2018" },
+    { "id": 4, "nome": "Tarefa 4", "status" : true,"dtprazo": "30-09-2018" },
+    { "id": 5, "nome": "Tarefa 5", "status" : false,"dtprazo": "14-12-2018" },
+    { "id": 6, "nome": "Tarefa 6", "status" : false,"dtprazo": "20-11-2018" }
 ]
